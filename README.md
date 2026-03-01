@@ -48,3 +48,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# Inorder to run the project 
+
+create a .env in backend folder 
+also in aiservice put you own apikey for mistral
+also create a firebase app and create a web app there is a given eg i have in the folder
+
