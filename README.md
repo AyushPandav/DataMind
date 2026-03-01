@@ -52,6 +52,6 @@ Join our community of developers creating universal apps.
 # Inorder to run the project 
 
 create a .env in backend folder 
-also in aiservice put you own apikey for mistral
+also in create aiservice.ts emailservice.ts and firebase.ts in utils folder and code them 
 also create a firebase app and create a web app there is a given eg i have in the folder
 
